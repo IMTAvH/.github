@@ -11,7 +11,7 @@ _Centro de referencia en investigación sobre enfermedades infecciosas y tropica
 [![Sitio web](https://img.shields.io/badge/Web-imtavh.cayetano.edu.pe-8B0000?style=flat-square)](https://imtavh.cayetano.edu.pe/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-IMTAvH_UPCH-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://pe.linkedin.com/company/imtavh-upch)
 [![X](https://img.shields.io/badge/X-@imtavh__upch-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/imtavh_upch)
-[![Correo](https://img.shields.io/badge/Correo-imtavh.sistemas@oficinas--upch.pe-6c757d?style=flat-square&logo=maildotru&logoColor=white)](mailto:imtavh.sistemas@oficinas-upch.pe)
+[![Correo](https://img.shields.io/badge/Correo-imtavh.datascience@oficinas-upch.pe-6c757d?style=flat-square&logo=maildotru&logoColor=white)](mailto:imtavh.datascience@oficinas-upch.pe)
 
 </div>
 
